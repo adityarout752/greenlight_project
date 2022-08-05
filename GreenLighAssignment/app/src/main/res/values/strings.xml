@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GreenLighAssignment</string>
+    <string name="performance_by_zone">Performance By Zone</string>
+    <string name="north">North</string>
+    <string name="performance">Performance</string>
+    <string name="region_performance">Region Performance</string>
+</resources>
